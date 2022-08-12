@@ -1,4 +1,4 @@
-# ICG_Recruitment_Task
+# ICG Recruitment Task
 This repository contains the task submitted for the Recruitment of the ICG ( IIT Kanpur Consulting Group) in Data Science Domain
 
 ## About ICG
